@@ -40,7 +40,7 @@ Contao-Installation verwalten. Dazu wurden folgende Domains registriert:
 
 Alle Domains sind auf die zentrale Installation geroutet, das heißt, Contao ist unter allen drei Domains erreichbar. 
 Damit im Frontend nun die jeweils zur Domain passende Webseite geladen wird, müssen in der Seitenstruktur drei 
-Startpunkte einer Webseite angelegt und darin im Abschnitt **»DNS-Einstellungen«** die jeweilige Domain in das Feld 
+Startpunkte einer Webseite angelegt und darin im Abschnitt **»URL-Einstellungen«** die jeweilige Domain in das Feld 
 `Domainname` eingetragen werden.
 
 Danach wird Contao beim Aufruf von `firma.at` auch nur noch die Webseite für Österreich anzeigen. Das 
